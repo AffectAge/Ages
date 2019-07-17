@@ -2,3 +2,14 @@
 icon.png
 logs/latest.log
 options.txt
+saves/New World/stats/3b95475e-c51c-6e1e-c306-c721d4dbd097.json
+saves/New World/session.lock
+saves/New World/advancements/3b95475e-c51c-6e1e-c306-c721d4dbd097.json
+saves/New World/data/capabilities.dat
+saves/New World/data/Mineshaft.dat
+*.dat
+*.mca
+*.dat_old
+usercache.json
+usernamecache.json
+*.gz
