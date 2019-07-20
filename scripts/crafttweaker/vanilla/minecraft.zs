@@ -9,7 +9,7 @@ Created by AffectAge
 
 import crafttweaker.item.IIngredient;
 
-// Disable unused items
+// Отключить ненужные вещи
 var remove_recipes = [
 
 		<minecraft:gold_ore>,
@@ -83,6 +83,42 @@ var remove_recipes = [
 		<minecraft:redstone_block>,
 		<minecraft:soul_sand>,
 		<minecraft:nether_wart_block>,
+		<minecraft:end_stone>,
+		<minecraft:netherrack>,
+		<minecraft:end_bricks>,
+		<minecraft:stone_slab:6>,
+		<minecraft:nether_brick>,
+		<minecraft:nether_brick_stairs>,
+		<minecraft:red_nether_brick>,
+		<minecraft:nether_brick_fence>,
+		<minecraft:netherbrick>,
+		<minecraft:wooden_sword>,
+		<minecraft:wooden_shovel>,
+		<minecraft:wooden_pickaxe>,
+		<minecraft:wooden_axe>,
+		<minecraft:wooden_hoe>,
+		<minecraft:stone_sword>,
+		<minecraft:stone_shovel>,
+		<minecraft:stone_pickaxe>,
+		<minecraft:stone_axe>,
+		<minecraft:stone_hoe>,
+		<minecraft:iron_hoe>,
+		<minecraft:diamond_hoe>,
+		<minecraft:golden_hoe>,
+		<minecraft:diamond_sword>,
+		<minecraft:diamond_shovel>,
+		<minecraft:diamond_pickaxe>,
+		<minecraft:diamond_axe>,
+		<minecraft:golden_sword>,
+		<minecraft:golden_sword>,
+		<minecraft:golden_shovel>,
+		<minecraft:golden_pickaxe>,
+		<minecraft:golden_axe>,
+		<minecraft:iron_axe>,
+		<minecraft:iron_pickaxe>,
+		<minecraft:iron_shovel>,
+		<minecraft:iron_sword>,
+		<ore:chestTrapped>,
 		
 ] as IIngredient[];
 
