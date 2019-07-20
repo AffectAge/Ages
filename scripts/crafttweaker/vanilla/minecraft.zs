@@ -119,6 +119,10 @@ var remove_recipes = [
 		<minecraft:iron_shovel>,
 		<minecraft:iron_sword>,
 		<ore:chestTrapped>,
+		<minecraft:gold_block>,
+		<minecraft:iron_block>,
+		<minecraft:diamond_block>,
+		<minecraft:emerald_block>,
 		
 ] as IIngredient[];
 

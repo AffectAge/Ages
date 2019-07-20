@@ -1,0 +1,8 @@
+{
+  "materialMappings": {
+    "platinum_block": 3,
+    "copper_block": 1,
+    "platinum_dust": 2,
+    "copper_dust": 0
+  }
+}

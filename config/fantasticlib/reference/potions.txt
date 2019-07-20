@@ -25,3 +25,10 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
+immersiveengineering:flammable
+immersiveengineering:slippery
+immersiveengineering:conductive
+immersiveengineering:sticky
+immersiveengineering:stunned
+immersiveengineering:concretefeet
+immersiveengineering:flashed

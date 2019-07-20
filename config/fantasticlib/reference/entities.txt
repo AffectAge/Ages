@@ -82,3 +82,12 @@ minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
 realdrops:item_loot
+immersiveengineering:revolvershot
+immersiveengineering:skylinehook
+immersiveengineering:revolvershothoming
+immersiveengineering:revolvershotwolfpack
+immersiveengineering:chemthrowershot
+immersiveengineering:railgunshot
+immersiveengineering:revolvershotflare
+immersiveengineering:explosive
+immersiveengineering:fluorescenttube
