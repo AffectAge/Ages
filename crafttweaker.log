@@ -13,8 +13,6 @@
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: contenttweaker\liquids.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: contenttweaker\materials.zs}
-[PREINITIALIZATION][CLIENT][ERROR] Could not find part ToolHeadAxe for Copper
-[PREINITIALIZATION][CLIENT][ERROR] Could not find part ToolHeadAxe for Platinum
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: contenttweaker\ores.zs}
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafttweaker\mods\BetterBuildersWands\BetterBuildersWands.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafttweaker\mods\ImmersiveEngineering\ImmersiveEngineering.zs} as we are currently loading with a different loader
@@ -36,7 +34,7 @@
 [INITIALIZATION][CLIENT][INFO] Dimension -1 has been added to stage disabled
 [INITIALIZATION][CLIENT][INFO] Dimension 1 has been added to stage disabled
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: crafttweaker\vanilla\minecraft.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 41ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 51ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <betterbuilderswands:wandunbreakable>
 [POSTINITIALIZATION][CLIENT][INFO] 0 recipes removed for: <betterbuilderswands:wandunbreakable>

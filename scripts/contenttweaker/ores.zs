@@ -802,3 +802,13 @@ lithiumOre.setToolClass("pickaxe");
 lithiumOre.setToolLevel(1);
 lithiumOre.setBlockSoundType(<soundtype:stone>);
 lithiumOre.register();
+
+var thoriumOre = VanillaFactory.createBlock("thoriumOre", <blockmaterial:rock>);
+thoriumOre.setLightOpacity(0);
+thoriumOre.setLightValue(0);
+thoriumOre.setBlockHardness(3.0);
+thoriumOre.setBlockResistance(10.0);
+thoriumOre.setToolClass("pickaxe");
+thoriumOre.setToolLevel(1);
+thoriumOre.setBlockSoundType(<soundtype:stone>);
+thoriumOre.register();

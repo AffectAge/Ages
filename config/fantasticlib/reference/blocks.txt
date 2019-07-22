@@ -357,6 +357,7 @@ modularmachinery:blockenergyinputhatch
 modularmachinery:blockenergyoutputhatch
 contenttweaker:soapstoneore
 contenttweaker:bauxiteore
+contenttweaker:thoriumore
 contenttweaker:chalcociteore
 contenttweaker:lithiumore
 contenttweaker:leadore

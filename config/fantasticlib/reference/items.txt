@@ -568,6 +568,7 @@ base:wrench
 contenttweaker:soapstoneore
 contenttweaker:material_part
 contenttweaker:bauxiteore
+contenttweaker:thoriumore
 contenttweaker:chalcociteore
 contenttweaker:lithiumore
 contenttweaker:leadore
