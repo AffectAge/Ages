@@ -1,2 +1,0 @@
-MushroomIslandShore = forBiomes(15)
-MushroomIslandShore.registerGenBiomeRep(1)

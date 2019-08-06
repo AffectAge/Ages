@@ -1,4 +1,0 @@
-DecorationGeneration = forAllBiomes()
-DecorationGeneration.removeDecoration("BIG_SHROOM")
-DecorationGeneration.removeDecoration("LAKE_LAVA")
-DecorationGeneration.removeDecoration("PUMPKIN")
