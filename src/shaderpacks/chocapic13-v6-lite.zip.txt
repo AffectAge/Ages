@@ -1,0 +1,2 @@
+#Fri Jul 26 17:04:40 CEST 2019
+VIGNETTE=false

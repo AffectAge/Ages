@@ -1,0 +1,173 @@
+{
+    "images":
+    {
+	
+		"black":
+        {
+            "image" : "ages:mainmenu/textures/bg_menu.png",
+            "posX" : 99,
+            "posY" : 0,
+            "width" : 155,
+            "height" : 800,
+            "alignment" : "top_left"
+        },
+		"logo":
+        {
+            "image" : "ages:mainmenu/textures/logo.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 250,
+            "height" : 120,
+            "alignment" : "top_left"
+        }
+	
+	},
+    
+    "buttons":
+    {     
+		"singleplayer":
+        {
+		    "text" : "menu.singleplayer",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 39434,
+			"texture" : "ages:mainmenu/textures/btn.png",			
+            "posX" : 100,
+            "posY" : -30,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },		
+
+		"multiplayer":
+        {
+            "text" : "menu.multiplayer",			
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 39434,
+			"texture" : "ages:mainmenu/textures/btn.png",
+            "posX" : 100,
+            "posY" : -10,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "menu.options",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 39434,
+			"texture" : "ages:mainmenu/textures/btn.png",
+            "posX" : 100,
+            "posY" : 10,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		        
+		"language":
+        {
+            "text" : "Language",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 39434,
+			"texture" : "ages:mainmenu/textures/btn.png",
+            "posX" : 100,
+            "posY" : 30,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,			
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "menu.quit",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 16711680,
+			"texture" : "ages:mainmenu/textures/btnMods.png",
+			"posX" : 100,
+            "posY" : 70,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 39434,
+			"texture" : "ages:mainmenu/textures/btn.png",
+            "posX" : 100,
+            "posY" : 50,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+	},
+	
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+	
+    "other":
+    {
+		"background":
+		{
+			"image" : "ages:mainmenu/textures/bg.png",
+			"mode" : "stretch"
+		}
+    }
+}
