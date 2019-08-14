@@ -1,0 +1,1 @@
+java -Xmx2048M -Xms2048M -jar forge-1.12.2-14.23.5.2838-universal.jar
